@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e04dbd90.css",
+    "main.js": "/static/js/main.a6c64bd6.js",
+    "static/media/Login.jpg": "/static/media/Login.ee1e4457e67192323884.jpg",
+    "static/media/signup.jpg": "/static/media/signup.6d512da0ea96a60d526f.jpg",
+    "static/media/Brazil.jpeg": "/static/media/Brazil.e5ef568f34e7c59d9f45.jpeg",
+    "static/media/America.jpeg": "/static/media/America.398c627b1404b6eaacef.jpeg",
+    "static/media/Dubai.jpeg": "/static/media/Dubai.8498d502d2bc5a4f543f.jpeg",
+    "static/media/India.jpeg": "/static/media/India.c8f48183dccbfd56e31d.jpeg",
+    "static/media/TOURIST.jpeg": "/static/media/TOURIST.f9111a2e562e69f67539.jpeg",
+    "static/media/logo.png": "/static/media/logo.a6a7a4487198cfd783d7.png",
+    "static/media/ship.jpeg": "/static/media/ship.605863d86e84ef87726b.jpeg",
+    "static/media/Bali.jpeg": "/static/media/Bali.0bd93ab434a929d87dde.jpeg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.e04dbd90.css.map": "/static/css/main.e04dbd90.css.map",
+    "main.a6c64bd6.js.map": "/static/js/main.a6c64bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04dbd90.css",
+    "static/js/main.a6c64bd6.js"
+  ]
+}
