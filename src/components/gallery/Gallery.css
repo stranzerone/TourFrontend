@@ -1,0 +1,119 @@
+.gridBox{
+
+    display: grid;
+    grid-template-rows: 15rem 15rem;
+    grid-template-columns: 33vw 33vw 33vw;
+   
+
+}
+
+.images1 {
+    grid-area: 1/ 1 / 2 / 2; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url("https://th.bing.com/th/id/OIP.YjHodGDtOHs4FTSgkSl1SQHaJ4?pid=ImgDet&rs=1");
+  
+    background-size: 15.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images2{
+    grid-area: 1/ 2 / 2/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-size: contain;
+    background-image: url("https://th.bing.com/th/id/OIP.-BFFeQbkUQkNl0ihgzAflAAAAA?w=255&h=185&c=7&r=0&o=5&dpr=1.7&pid=1.7");
+    background-size: 31rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images3{
+    grid-area: 2/ 1 / 3/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url('https://th.bing.com/th/id/OIP.Z52f3meH-k2e8gR7ghITKgAAAA?pid=ImgDet&rs=1');
+    background-size: 46.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+
+
+  }
+
+
+  .images4 {
+    grid-area: 1/ 1 / 2 / 2; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url('https://i.pinimg.com/originals/39/8f/e6/398fe6350213f1f25b6c870bcff0ec18.jpg');
+    background-size: 15.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images5{
+    grid-area: 1/ 2 / 2/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-size: contain;
+    background-image: url('https://media.glamour.com/photos/58c6ed0c3b757b7cc97d0a75/master/pass/GettyImages-146598975.jpg');
+    background-size: 31rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images6{
+    grid-area: 2/ 1 / 3/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url('https://www.jetsetter.com/uploads/sites/7/2019/03/GettyImages-617907442-1380x690.jpg');
+    background-size: 46.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+
+
+  }
+
+
+  .images7 {
+    grid-area: 1/ 1 / 2 / 2; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url('https://th.bing.com/th/id/OIP.e10joSR8NdfHFBQka8BmAwHaE8?w=259&h=180&c=7&r=0&o=5&dpr=1.7&pid=1.7');
+    background-size: 15.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images8{
+    grid-area: 1/ 2 / 2/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-size: contain;
+    background-image: url('https://4.bp.blogspot.com/-02s2kGMbqU8/WQUKQ331vKI/AAAAAAAASrs/CF7nOG8HKmQQrOAnu0RhjYPyxbrggW8lgCK4B/w1200-h630-p-k-no-nu/7%2BPlaces%2BIn%2BIndia%2BYou%2BMust%2BGo%2BTo%2BWith%2BYour%2BBest%2BFriends%2Btripoto.jpeg');
+    background-size: 31rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images9{
+    grid-area: 2/ 1 / 3/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url('https://s20426.pcdn.co/wp-content/uploads/2018/11/iStock-870378096-e1544710804582-1600x800.jpg');
+    background-size: 46.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+
+
+  }
+
+  
+  .images10 {
+    grid-area: 1/ 1 / 2 / 2; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url('https://img.traveltriangle.com/blog/wp-content/uploads/2017/10/shutterstock_2773329831.jpg');
+    background-size: 15.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images11{
+    grid-area: 1/ 2 / 2/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-size: contain;
+    background-image: url('https://th.bing.com/th/id/OIP.HO6DjrRAPEJl23Nb3-kD4gHaEA?pid=ImgDet&rs=1');
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+  }
+
+  .images12{
+    grid-area: 2/ 1 / 3/ 4; /* Format: row-start / column-start / row-end / column-end */
+    background-image: url('https://www.mymodernshop.com/wp-content/uploads/2021/06/Vacation-with-Family-1024x682.jpg');
+    background-size: 46.5rem 15rem;
+    margin: .4rem .4rem;
+    border-radius: .6rem;
+
+
+  }

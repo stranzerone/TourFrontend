@@ -1,0 +1,149 @@
+.loginCoin{
+ display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-image: url('./Images/Login.jpg');
+    background-size:  67.5rem 100vh;
+    background-attachment: fixed;
+   
+}
+
+
+.regCoin{
+    display: flex;
+       height: 100vh;
+       width: 100vw;
+       background-image: url('./Images/signup.jpg');
+       background-size:  67.5rem 100vh;
+       background-attachment: fixed;
+      
+   }
+
+   .regCoin Input{
+margin-top: 1rem;
+ display: flex;
+margin-left: 4rem;
+color: black;
+font-weight: 700;
+font-size: 1rem;
+   }
+
+
+   .destCoin{
+background-color: aliceblue;
+width: 100vw;
+
+   }
+
+.desBox{
+    display: grid;
+  
+    grid-template-rows: 15rem 15rem;
+    grid-template-columns:  33vw 33vw 33vw;
+height: 30rem;
+width: 100vw;
+margin-left: 1rem;
+margin-top: .7rem;
+border: .1rem solid white;
+border-radius: 2rem;
+
+   }
+
+   .item1{
+grid-area: 1/1/2/2;
+
+
+
+   }
+   .item2{
+ grid-area: 1/2/2/4;
+
+   }
+
+   .item3{
+    grid-area: 2/1/3/3;
+  
+   }
+   .item4{
+    grid-area: 2/3/3/4;
+    margin-left: 2rem;;
+   }
+
+   .desBox img:hover{
+
+    transform: scale(1.1);
+  
+   }
+
+   .desBox img{
+    border-radius: 1rem;
+    box-shadow: .3rem .3rem .4rem  rgb(205, 202, 202);
+   }
+
+   .locationCoin{
+    background-color: aliceblue;
+   }
+
+   .locationCoin img{
+    height: 31rem;
+    width: 100vw;
+    margin-top: .5rem;
+    
+   }
+   .locationCoin h1{
+    position: absolute;
+   }
+
+   .image{
+    display: flex;
+    height: 30rem;
+    width: 100vw;
+    background-image: url(./Images/Locations/America.jpeg);
+    background-size: 100vw 30rem; 
+}
+
+.india{
+    display: flex;
+    height: 30rem;
+    width: 100vw;
+    background-image: url(./Images/Locations/India.jpeg);
+    background-size:100vw 30rem ; 
+}
+.image2{
+    display: flex;
+    height: 30rem;
+    width: 100vw;
+    background-image: url(./Images/Locations/Brazil.jpeg);
+    background-size: 100vw 30rem; 
+}
+.image3{
+    display: flex;
+    height: 30rem;
+    width: 100vw;
+    background-image: url(./Images/Locations/Bali.jpeg);
+    background-size:100vw 30rem; 
+}
+.image4{
+    display: flex;
+    height: 30rem;
+    width: 100vw;
+    background-image: url(./Images/Locations/Dubai.jpeg);
+    background-size: 100vw 30rem; 
+}
+
+.bookingCoin{
+    display: flex;
+    flex-direction: column;
+    background-image: url('https://image.freepik.com/free-vector/booking-banner-background-design-concept_56103-319.jpg');
+    background-attachment: fixed;
+    background-size: 100vw 100vh   ;
+    width:100vw;
+}
+
+
+.regCoin Input{
+
+    color:white;
+    font-size: 1.3rem;
+   
+}
